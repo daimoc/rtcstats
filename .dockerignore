@@ -15,3 +15,7 @@ packages/rtcstats-shared/test/
 packages/rtcstats-node-shared/node_modules/
 packages/rtcstats-node-shared/coverage/
 packages/rtcstats-node-shared/test/
+
+packages/rtcstats-features/node_modules/
+packages/rtcstats-features/coverage/
+packages/rtcstats-features/test/
